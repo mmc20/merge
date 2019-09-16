@@ -1,6 +1,5 @@
 import math
 
 def Main_function():
-    print ("Hello Mary!")
-
+    print ("Hello MaryJane!")
 Main_function()
