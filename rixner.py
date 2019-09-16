@@ -1,6 +1,6 @@
 import math
 
 def main_func():
-    print ("Hello World!")
+    print ("Hello Moto!")
 
 main_func()
