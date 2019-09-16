@@ -1,6 +1,6 @@
 import math
 
-def main_func():
+def main_function():
     print ("Hello Moto!")
 
-main_func()
+main_function()
